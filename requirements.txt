@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+pytorch-lightning==2.4.0
+lightning-utilities
+torchmetrics
+scikit-learn
+matplotlib
